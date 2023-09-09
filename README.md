@@ -30,10 +30,14 @@ He seguido los siguientes pasos:
 
 ## 3. Hacer un commit y un push
 
-- He crreado un archivo en la carpeta del repositorio llamada <b><i>"archivoantonio"</i></b> desde la opción <i>"nuevo archivo"</i> de mi explorador de Visual Studio Code.
+- He creado un archivo en la carpeta del repositorio llamada <b><i>"archivoantonio"</i></b> desde la opción <i>"nuevo archivo"</i> de mi explorador de Visual Studio Code.
 
 - He añadido el archivo al staging con <b><i>git add .</i></b>
 
 - He creado un commit con el comando <b><i>git commit -m "laboratorio de git - práctica 1"</i></b> y seguidamente <b><i>git add .</i></b>
 
-- He subido los cambios mediante <b><i>git push</i></b>
+- He subido los cambios al repositorio de GitHub mediante <b><i>git push</i></b>
+
+## 4. Crear una rama
+
+- 
