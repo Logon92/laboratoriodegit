@@ -40,4 +40,13 @@ He seguido los siguientes pasos:
 
 ## 4. Crear una rama
 
-- 
+- He creado una rama nueva llamada <i>"development"</i> mediante el comando <b><I>git branch development</i></b>.
+
+- He cambiado a la nueva rama mediante <b><i>git checkout development</i></b>.
+
+
+Realiza algunos cambios en el archivo que creaste.
+
+
+Añade y haz un commit con los cambios en la rama "development".
+Sube los cambios a Github.
