@@ -45,8 +45,9 @@ He seguido los siguientes pasos:
 - He cambiado a la nueva rama mediante <b><i>git checkout development</i></b>.
 
 
-Realiza algunos cambios en el archivo que creaste.
+- He realizado cambios en el archivo <i>"archivoantonio"</i> escribiendo un encabezado "h1".
 
 
-Añade y haz un commit con los cambios en la rama "development".
-Sube los cambios a Github.
+- He añadido los cambios con <b><i>git add .</i></b> y hecho un commit (git commit -m "") con los cambios en la rama "development".
+
+- He subido los cambios a Github.
