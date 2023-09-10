@@ -15,7 +15,7 @@ He seguido los siguientes pasos:
 
 ## 2. Subir el repositorio a GitHub
 
-- He creado un nuevo repositorio en GitHub clicalndo en <i>"new"</i>, titulándolo como <i>"laboratoriodegit"</i>, añadiendo una descripción <i>"Este repositorio corresponde a la primera práctica del bootcamp."</i>, y selecionando la opción de <i>"private"</i>.
+- He creado un nuevo repositorio en GitHub clicando en <i>"new"</i>, titulándolo como <i>"laboratoriodegit"</i>, añadiendo una descripción <i>"Este repositorio corresponde a la primera práctica del bootcamp."</i>, y selecionando la opción de <i>"private"</i>.
 
 - He copiado la URL con protocolo ssh (la clave ssh la tenía creada con anterioridad).
 
@@ -30,11 +30,11 @@ He seguido los siguientes pasos:
 
 ## 3. Hacer un commit y un push
 
-- He creado un archivo en la carpeta del repositorio llamada <b><i>"archivoantonio"</i></b> desde la opción <i>"nuevo archivo"</i> de mi explorador de Visual Studio Code.
+- He creado un archivo en la carpeta del repositorio llamada <b><i>"archivoantonio.html"</i></b> desde la opción <i>"nuevo archivo"</i> de mi explorador de Visual Studio Code.
 
 - He añadido el archivo al staging con <b><i>git add .</i></b>
 
-- He creado un commit con el comando <b><i>git commit -m "laboratorio de git - práctica 1"</i></b> y seguidamente <b><i>git add .</i></b>
+- He creado un commit con el comando <b><i>git commit -m "laboratorio de git - práctica 1"</i></b>.
 
 - He subido los cambios al repositorio de GitHub mediante <b><i>git push</i></b>
 
@@ -51,3 +51,13 @@ He seguido los siguientes pasos:
 - He añadido los cambios con <b><i>git add .</i></b> y hecho un commit (git commit -m "") con los cambios en la rama "development".
 
 - He subido los cambios a Github.
+
+## 5. Hacer un merge
+
+- He vuelto a la rama "master" con <b><i>git checkout master</i></b>.
+
+- He realizado un merge de la rama "development" a la rama "master" con <b><i>git merge development</i></b>.
+
+- Puesto que había conflictos, los he solucionado aceptando los cambios entrantes y haciendo un <b><i>git commit -am""</i></b>.
+
+- Por último. he realizado un git push de los cambios al repositorio en GitHub.
